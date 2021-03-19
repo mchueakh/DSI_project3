@@ -2,8 +2,7 @@
 
 
 ## Objectives:
-- Find is the best model that can classifiy between the booksuggestion and basketball posts.
-- Find a list of main key words which are can identify the post is booksuggestion or basketball post
+- classify the Reddit posts by using classification model
 
 ### Data Source
 
